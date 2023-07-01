@@ -34,7 +34,7 @@
                                     'duration': '1s',
                                     'delay': '.4s'
                                 }">
-                                        RUNNING SHOES
+                                        Sports SHOES
                                     </h3>
                                     <p class="font-weight-normal text-default slide-animate" data-animation-options="{
                                     'name': 'fadeInRightShorter',
